@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+   <head>Resultado 12</head>
+   <body>
+	
+	<script>
+	var a=3;
+	var b=4;
+	document.write(a * b)
+	</script>
+
+  </body>
+</html>

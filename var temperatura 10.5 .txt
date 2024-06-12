@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body>
+<script>
+var temperatura = -1.5;
+document.wrtie("10"+"5!")
+</script>
+</body>
+</html>
